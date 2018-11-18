@@ -1,0 +1,69 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "moggy",
+      "name": "Moggy",
+      "publisher": "Etos Indonusa",
+      "tray_image_file": "moggy.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "03_good.webp"
+        },
+        {
+          "image_file": "39_kiss.webp"
+        },
+        {
+          "image_file": "94_spirit.webp"
+        },
+        {
+          "image_file": "113_cool.webp"
+        },
+        {
+          "image_file": "118_election.webp"
+        },
+        {
+          "image_file": "120_united.webp"
+        },
+        {
+          "image_file": "127_friendship.webp"
+        },
+        {
+          "image_file": "133_yes.webp"
+        },
+        {
+          "image_file": "136_champ.webp"
+        },
+        {
+          "image_file": "142_garden.webp"
+        },
+        {
+          "image_file": "148_wake.webp"
+        },
+        {
+          "image_file": "160_bedug.webp"
+        },
+        {
+          "image_file": "162_sleep.webp"
+        },
+        {
+          "image_file": "173_helping.webp"
+        },
+        {
+          "image_file": "201_thanks.webp"
+        },
+        {
+          "image_file": "204_plane.webp"
+        },
+        {
+          "image_file": "225_ok.webp"
+        }
+      ]
+    }
+  ]
+}
